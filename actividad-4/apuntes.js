@@ -52,7 +52,7 @@ console.log('De 0 a 10 existen ${contador} múltiplos de 2');
 10 es múltiplo de 2
 De 0 a 10 existen 5 múltiplos de 2
 
----Acumulador---
+//---Acumulador---
 var acumulador = 0;
 for (var index = 0; index <=4; index++) {
     acumulador = acumulador + index;
