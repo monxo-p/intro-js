@@ -2,7 +2,7 @@
 var animals = ["eagle", "parrot", "monkey", "boar", "lion"];
 var comingSoonAnimals = ["panther", "dragon", "turttle"];
 
-var allAnimals = animals.concat(comigSoonAnimals);
+var allAnimals = animals.concat(comingSoonAnimals);
 
 // ejercicio 2
 var arr = [4, 6, 1, 0, 8, 2];
