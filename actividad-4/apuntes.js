@@ -74,7 +74,7 @@ frutas[2]
 frutas[3] = 'uvas';
 
 // iterar un arreglo
-var arreglo = [´hola, 1, true, null]
+var arreglo = ['hola', 1, true, null]
 
 for (var i = 0; i < arreglo.length; i++){
     console.log(arreglo[i])
