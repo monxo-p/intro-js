@@ -1,4 +1,4 @@
-// 
+//
 //function buscar(uno, palabra) {
 //   for (var i = 0; i < uno.length; i++) {
 //     var array = uno.split(" ");
@@ -25,7 +25,7 @@
 
 // buscarPalabra('Hola mundo', 'mundo');
 
-
+/*
 // ejercicio 1 con arrow function
 const findWord = (text, word) => {
   return text.includes(word);
@@ -77,3 +77,12 @@ function FaC(fahrenheit)
 } 
 CaF(60);
 FaC(45);
+
+alert();
+
+*/
+
+var numero = 0;
+for (i = 0; i < 10; i++) {
+  console.log(i);
+}
