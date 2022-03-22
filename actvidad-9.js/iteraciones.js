@@ -14,7 +14,7 @@ items.forEach((item) => {
 });
 
 // --------map ----------
-// crea una copia de un array con instrucciones de funcoines
+// crea una copia de un array con instrucciones de funcines
 var numbers = [1, 5, 10, 15];
 var doubles = numbers.map(function (x) {
   return x * 2;
