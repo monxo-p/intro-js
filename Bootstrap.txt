@@ -1,0 +1,4 @@
+va sobre columnas de 12
+container está centrado por defecto
+container-fluid manda usa el máximo de ancho
+

@@ -1,0 +1,14 @@
+
+
+.btn-nav{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #fff;
+    color: white;
+    margin: 10px;
+    text-align: center;
+    font-size: 18px;
+    cursor: pointer;
+    line-height: 30px;
+}
